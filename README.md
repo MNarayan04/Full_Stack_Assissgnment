@@ -1,4 +1,4 @@
-# Full_Stack_Assissgnment
+# Full_Stack_Assignment
 
 Moduler Approach is followed as frontend has different folder and backend has different folder
 
